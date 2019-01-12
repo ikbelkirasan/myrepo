@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ikbelkirasan
+Label: ikbelkirasan Repo
+Architecture: amd64
+Description: Debian amd64 packages hosted on ikbelkirasan github repository

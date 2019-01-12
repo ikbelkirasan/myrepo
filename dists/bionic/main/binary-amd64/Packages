@@ -1,0 +1,13 @@
+Package: helloworld
+Version: 0.2
+Maintainer: Ikbel
+Architecture: all
+Priority: 0
+Section: utils
+Filename: pool/main/h/helloworld/helloworld_0.2_all.deb
+Size: 812
+SHA256: 6301d650e3ea7f4633ba43fcd3a3d115d6e3567c794ed0644ac09f97752a6299
+SHA1: 47b27397f95ade19bcb1f1a0fa2931447041481b
+MD5sum: f4742201fddf7703a589d2a0c9c8adc6
+Description: hello world
+

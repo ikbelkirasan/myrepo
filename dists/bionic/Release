@@ -1,0 +1,20 @@
+Origin: ikbelkirasan
+Label: ikbelkirasan Repo
+Suite: stable
+Codename: bionic
+Date: Sat, 12 Jan 2019 22:10:03 UTC
+Architectures: amd64
+Components: main
+Description: Debian amd64 packages hosted on ikbelkirasan github repository
+MD5Sum:
+ 59b6d29c7be2733183d4c84d837c67fe 349 main/binary-amd64/Packages
+ 01651afb0bf88adc9f5427a1f782b2ea 274 main/binary-amd64/Packages.gz
+ 0be1b9fa54b6e0cec7f32e63dc697959 174 main/binary-amd64/Release
+SHA1:
+ f2ece8a61d5faa4784b238bdfa39eeca947c1283 349 main/binary-amd64/Packages
+ 73a3b972b24e72b032a62bf9f17845b82ffdd708 274 main/binary-amd64/Packages.gz
+ 0a2928ee6c607d74b0ee0a32698055fe4a3cebc8 174 main/binary-amd64/Release
+SHA256:
+ 4ac69b7805a7740c592cb2ed1fdbd4872f96379eacf397e7e3bde6401e592bfd 349 main/binary-amd64/Packages
+ 8a237ce664a90331a06b95488cd186c2dfa880848c4d895756aef9fb592daa31 274 main/binary-amd64/Packages.gz
+ 1b36b251d62141357b6e253cf584aa311be2ff49fbf55a8fbaeeb11844cecfa5 174 main/binary-amd64/Release

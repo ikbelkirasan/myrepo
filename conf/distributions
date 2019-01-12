@@ -1,0 +1,8 @@
+Origin: ikbelkirasan
+Label: ikbelkirasan Repo
+Suite: stable
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Debian amd64 packages hosted on ikbelkirasan github repository
+SignWith: yes
